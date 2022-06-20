@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bb75fcb-0a8c-424d-a7d2-8c7add6ed472" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/resources/accounts.schema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifacts/app-mbank.jar" beforeDir="false" />
-    </list>
+    <list default="true" id="7bb75fcb-0a8c-424d-a7d2-8c7add6ed472" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
